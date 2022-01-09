@@ -1,0 +1,12 @@
+    <settings>
+      
+      <mirrors>
+        <mirror>
+          <id>central</id>
+          <name>Other Mirror Repository</name>
+          <url>https://repo.maven.apache.org/maven2</url>
+          <mirrorOf>*</mirrorOf>
+        </mirror>
+      </mirrors>
+      
+    </settings>
